@@ -11,5 +11,6 @@
     <string name="error_message_user">User incorrect</string>
     <string name="error_message_pass">Password incorrect</string>
     <string name="error_empty">Check for an Empty field!</string>
-    <string name="message_welcome"> Login Successful!\n Home Screen is under development</string>
+    <string name="message_welcome"> Login Successful!</string>
+    <string name="message_develop">Home Screen\nunder development</string>
 </resources>
